@@ -2,6 +2,9 @@ Form Validation Project
 
 This project is a user-friendly form built with HTML, CSS, Bootstrap, and JavaScript that validates user inputs before submission.
 
+
+![alt image](https://github.com/AkshithaM-123/form-validation/blob/78ecbef8448cd2e1a6ac6c931746861cb6d5c9bb/Outputscreenshot3.jpg)
+
 Features
 
 1.Validates essential fields: Full Name, Email, Phone Number, Password, and Confirm Password.
