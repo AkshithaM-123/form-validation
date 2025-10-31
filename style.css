@@ -1,0 +1,72 @@
+body {
+    background: rgb(244, 250, 252);
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    overflow: hidden;
+}
+
+.form-container {
+    background: white;
+    color: black;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.3);
+    width: 500px;
+}
+
+.error-message {
+    color: red;
+    font-size: 0.9em;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+/*Styles for mobile*/
+@media screen and (max-width:480px) {
+
+    body {
+        font-size: 16px;
+        background-color: #f0f0f0;
+    }
+
+    .form-container {
+        padding: 20px;
+        margin: 10px;
+        border: #f0f0f0;
+    }
+}
+
+/* Styles for tablet */
+@media only screen and (min-width: 600px) and (max-width: 1024px) {
+    body {
+        background-color: #e0f7fa;
+        font-size: 18px;
+    }
+
+    .container {
+        width: 90%;
+        margin: auto;
+        padding: 20px;
+    }
+}
+
+/* Styles for laptops */
+@media only screen and (min-width: 1025px) and (max-width: 1440px) {
+    body {
+        background-color: #fff3e0;
+        font-size: 20px;
+    }
+
+    .form-container {
+        width: 80%;
+        margin: auto;
+        padding: 40px;
+    }
+
+}
