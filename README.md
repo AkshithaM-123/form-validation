@@ -31,20 +31,21 @@ This project ensures that user inputs are valid before submission, improving bot
 1. Clone this repository:
 git clone  https://akshitham-123.github.io/form-validation
 
-text
-2. Open the project folder:
+3. Open the project folder:
 cd form-validation
 
-text
 3. Launch the `index.html` file in your browser.
 
 ## 📁 Project Structure
 
-form-validation/
-│
+form-validation
+
 ├── index.html # Main HTML file containing the form
+
 ├── style.css # Custom CSS for additional styling
+
 ├── script.js # Core JavaScript logic for validation
+
 └── README.md # Documentation file
 
 text
