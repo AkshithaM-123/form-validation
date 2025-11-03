@@ -58,7 +58,7 @@ text
 
 ## 📸 Preview
 
-(Add a screenshot or GIF of your form here)
+![image alt](https://github.com/AkshithaM-123/form-validation/blob/78ecbef8448cd2e1a6ac6c931746861cb6d5c9bb/Outputscreenshot3.jpg)
 
 ## 💬 Contributing
 
