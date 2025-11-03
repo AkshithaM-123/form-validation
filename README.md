@@ -29,7 +29,7 @@ This project ensures that user inputs are valid before submission, improving bot
 ## ⚙️ How to Run
 
 1. Clone this repository:
-git clone https://github.com/your-username/form-validation.git
+git clone  https://akshitham-123.github.io/form-validation
 
 text
 2. Open the project folder:
